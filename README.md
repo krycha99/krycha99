@@ -3,9 +3,10 @@
 <br>
 
 🌱 I’m currently learning Spring Boot and Angular.
+<a href="[https://www.w3schools.com/cs/](https://spring.io/projects/spring-boot)" target="_blank" rel="noreferrer"> <img src="[https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)"/> </a>
+<a href="[https://www.w3schools.com/cs/](https://spring.io/projects/spring-boot)" target="_blank" rel="noreferrer"> <img src="[[https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> </a>
 
