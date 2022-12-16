@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> </a>
 <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a>
