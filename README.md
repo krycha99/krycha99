@@ -1,6 +1,18 @@
-# 👋 Hi, I'm krycha99!
+# 👋 Hi there!
 
 I'm a programming enthusiast, currently focusing on learning **Python**, with plans to dive deeper into **Django** and **Flask** frameworks. My goal is to develop both **backend** and **frontend** skills, while also training in **DevOps**.
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  </a>
+</p>
 
 ## 🔧 Areas I'm working on:
 - Python programming (planning to learn Django / Flask)
@@ -30,6 +42,12 @@ I'm a programming enthusiast, currently focusing on learning **Python**, with pl
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Angular-E23237.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   </a>
 </p>
 
