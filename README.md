@@ -15,7 +15,7 @@ I'm a programming enthusiast, currently focusing on learning **Python**, with pl
 </p>
 
 ## 🔧 Areas I'm working on:
-- Python programming (planning to learn Django / Flask)
+- Python programming (learning Django / Flask)
 - Web development (frontend & backend)
 - DevOps (still in the early stages, but highly motivated 💪)
 
